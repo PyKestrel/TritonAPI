@@ -1,0 +1,17 @@
+{
+  "name": "tritonapi",
+  "version": "1.0.0",
+  "description": "OSINT API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PyKestrel",
+  "license": "MIT",
+  "dependencies": {
+    "wrangler": "^2.15.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
